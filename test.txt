@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi there is an empty file on my pc
+=======
+giii
+
+>>>>>>> f5b4d83 (git)
